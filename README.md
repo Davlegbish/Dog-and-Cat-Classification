@@ -2,9 +2,9 @@
 
 In this project, we developed a neural network to classify images as either a dog or a cat. To train the neural network, i processed 2000 images of each class (dogs and cats). The steps involved in this process are as follows:
 
-#**Image Collection**: We gathered 2000 images of cats and 2000 images of dogs. These images serve as the dataset for training the neural network.
+**Image Collection**: We gathered 2000 images of cats and 2000 images of dogs. These images serve as the dataset for training the neural network.
 
-#**Data Preprocessing**:
+**Data Preprocessing**:
 
 **Pixel Extraction**: We extracted pixel values from each image. This step converts the images from matrix into vector format that can be used by the neural network.
 
@@ -15,12 +15,15 @@ In this project, we developed a neural network to classify images as either a do
 **Training**: The preprocessed images were used to train the neural network. During training, the network learns to identify patterns and features that are unique to each class (cats and dogs). The learning process involves adjusting the network's weights based on the error in its predictions.
 
   ![Screenshot (47)](https://github.com/Davlegbish/Dog-and-Cat-Classification/assets/155652335/98202687-b63e-430b-a48f-0b545e6ad5b0)
+  
 
 **Evaluation**: After training, the neural network's performance was evaluated using a separate set of images that were not included in the training dataset. This step ensures that the network can generalize its learning to new, unseen images.
 
 ![Screenshot (50)](https://github.com/Davlegbish/Dog-and-Cat-Classification/assets/155652335/bb826a55-8c4c-43a0-b48e-54a372f2bd35)
 
+
 By following these steps, the neural network was trained to accurately classify images as either a dog or a cat. The preprocessing steps, particularly pixel extraction and normalization, were crucial in improving the network's prediction accuracy.
+
 ![Screenshot (49)](https://github.com/Davlegbish/Dog-and-Cat-Classification/assets/155652335/eb8ed5e5-b59f-4325-afe9-03323265919c)
 
 
