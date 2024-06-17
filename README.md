@@ -27,6 +27,14 @@ By following these steps, the neural network was trained to accurately classify 
 ![Screenshot (49)](https://github.com/Davlegbish/Dog-and-Cat-Classification/assets/155652335/eb8ed5e5-b59f-4325-afe9-03323265919c)
 
 
+**Challenges Encoutered**
+1. Slow pixel Extraction From Image:
+   he procedure for retrieving pixel information from images is taking longer than expected. This was due high resolution from the images.
+
+2. Slow Eposh Speed:
+   The duration for completing each training epoch is longer than anticipated. This was due to the  large dataset size and complex model architecture.
+
+
 
 
 
