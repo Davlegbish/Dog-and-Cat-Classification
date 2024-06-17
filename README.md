@@ -28,11 +28,11 @@ By following these steps, the neural network was trained to accurately classify 
 
 
 **Challenges Encoutered**
-1. Slow pixel Extraction From Image:
-   he procedure for retrieving pixel information from images is taking longer than expected. This was due high resolution from the images.
+1. Slow pixel Extraction From Image's:
+   The procedure for retrieving pixel information from images is taking longer than expected, due high resolution from the images.
 
 2. Slow Eposh Speed:
-   The duration for completing each training epoch is longer than anticipated. This was due to the  large dataset size and complex model architecture.
+   The duration for completing each training epoch is longer than anticipated, due to the  large dataset size and complex model architecture.
 
 
 
