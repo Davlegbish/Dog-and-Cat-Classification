@@ -1,6 +1,6 @@
 # Neural Network for Cat and Dog Classification
 
-In this project, we developed a neural network to classify images as either a dog or a cat. To train the neural network, i processed 2000 images of each class (dogs and cats). The steps involved in this process are as follows:
+In this project, i developed a neural network to classify images as either a dog or a cat. To train the neural network, i processed 2000 images of each class (dogs and cats). The steps involved in this process are as follows:
 
 **Image Collection**: We gathered 2000 images of cats and 2000 images of dogs. These images serve as the dataset for training the neural network.
 
