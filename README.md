@@ -32,7 +32,7 @@ By following these steps, the neural network was trained to accurately classify 
    The procedure for retrieving pixel information from images is taking longer than expected, due high resolution from the images.
 
 2. Slow Eposh Speed:
-   The duration for completing each training epoch is longer than anticipated, due to the  large dataset size and complex model architecture.
+   The duration for completing each training epoch took longer than anticipated, due to the  large dataset size and complex model architecture.
 
 
 
